@@ -1,0 +1,1 @@
+python entrenamiento.py --feature-map-file modelos/feature_map.pkl --svm-file modelos/svm.pkl

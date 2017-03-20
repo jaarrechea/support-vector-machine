@@ -1,0 +1,1 @@
+python crear_caracteristicas.py --samples madera imagenes\madera\ --samples metal imagenes\metal\ --codebook-file modelos\codebook.pkl --feature-map-file modelos\feature_map.pkl
